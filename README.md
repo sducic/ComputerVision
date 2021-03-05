@@ -1,7 +1,7 @@
 
 Lab vezbe iz predmeta Racunarski vid.
 
-![](lab1/output.png width="100" height="100")
+![](lab1/output.png)
 
 ![](lab2/Panorama.jpg)
 
