@@ -7,4 +7,4 @@ Lab vezbe iz predmeta Racunarski vid.
 
 ![](lab3/Output.PNG)
 
-![](lab4/lab4.png)
+![](lab4/output.jpg)
