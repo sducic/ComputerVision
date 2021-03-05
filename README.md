@@ -5,6 +5,6 @@ Lab vezbe iz predmeta Racunarski vid.
 
 ![](lab2/Panorama.jpg)
 
-![](lab3/Output.png)
+![](lab3/Output.PNG)
 
 ![](lab4/lab4.png)
